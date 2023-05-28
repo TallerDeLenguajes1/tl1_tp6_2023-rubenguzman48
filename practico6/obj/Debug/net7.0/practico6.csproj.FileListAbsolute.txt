@@ -1,0 +1,15 @@
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\bin\Debug\net7.0\practico6.exe
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\bin\Debug\net7.0\practico6.deps.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\bin\Debug\net7.0\practico6.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\bin\Debug\net7.0\practico6.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\refint\practico6.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp62023\tl1_tp6_2023-rubenguzman48\practico6\obj\Debug\net7.0\ref\practico6.dll
